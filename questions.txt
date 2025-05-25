@@ -1,0 +1,439 @@
+[Topic: Java][Mode: Beginner][Format: Direct]
+Q: What is JVM?
+A: Java Virtual Machine
+Q: Which keyword is used to inherit a class?
+A: extends
+Q: What is the size of int in Java?
+A: 4 bytes
+Q: Which company created Java?
+A: Sun Microsystems
+Q: What is used to print output in Java?
+A: System.out.println
+
+[Topic: Java][Mode: Beginner][Format: MCQ]
+Q: Which keyword is used to inherit a class?
+1. implement
+2. extends
+3. inherits
+4. override
+A: 2
+Q: What is size of int in Java?
+1. 2 bytes
+2. 4 bytes
+3. 8 bytes
+4. 1 byte
+A: 2
+Q: Who developed Java?
+1. Apple
+2. Microsoft
+3. Sun Microsystems
+4. Google
+A: 3
+Q: Which method is used to print in Java?
+1. echo
+2. console.log
+3. System.out.println
+4. print
+A: 3
+Q: Java is a...
+1. Programming language
+2. Database
+3. Web server
+4. Protocol
+A: 1
+
+[Topic: Python][Mode: Beginner][Format: Direct]
+Q: What keyword defines a function in Python?
+A: def
+Q: How do you write comments?
+A: #
+Q: What is output of print(3*2)?
+A: 6
+Q: What is a list?
+A: Ordered collection
+Q: How to get input from user?
+A: input()
+
+[Topic: Python][Mode: Beginner][Format: MCQ]
+Q: Which keyword defines a function?
+1. def
+2. func
+3. function
+4. define
+A: 1
+Q: Output of print(2+3)?
+1. 23
+2. 5
+3. 2+3
+4. Error
+A: 2
+Q: How to take user input?
+1. scanf()
+2. cin
+3. input()
+4. gets()
+A: 3
+Q: What does '#' represent in Python?
+1. String
+2. List
+3. Comment
+4. Loop
+A: 3
+Q: Python is...
+1. Compiled only
+2. Interpreted
+3. Markup language
+4. Binary code
+A: 2
+
+[Topic: C++][Mode: Beginner][Format: Direct]
+Q: What is cout in C++?
+A: Output statement
+Q: What is the extension of C++ file?
+A: .cpp
+Q: Who developed C++?
+A: Bjarne Stroustrup
+Q: What symbol is used for comments?
+A: //
+Q: Which loop is used to repeat code?
+A: for
+
+[Topic: C++][Mode: Beginner][Format: MCQ]
+Q: C++ was developed by?
+1. Dennis Ritchie
+2. James Gosling
+3. Bjarne Stroustrup
+4. Guido van Rossum
+A: 3
+Q: Comment symbol in C++?
+1. #
+2. //
+3. %
+4. ;;
+A: 2
+Q: Which of the following is a valid extension?
+1. .java
+2. .html
+3. .cpp
+4. .py
+A: 3
+Q: Loop used for repeating code?
+1. if
+2. else
+3. for
+4. goto
+A: 3
+Q: What is cout used for?
+1. Input
+2. Output
+3. Loop
+4. Class
+A: 2
+
+[Topic: HTML][Mode: Beginner][Format: Direct]
+Q: What does HTML stand for?
+A: Hyper Text Markup Language
+Q: Which tag defines a paragraph?
+A: <p>
+Q: How to create hyperlink?
+A: <a>
+Q: What tag displays image?
+A: <img>
+Q: HTML is case sensitive?
+A: No
+
+[Topic: HTML][Mode: Beginner][Format: MCQ]
+Q: HTML stands for?
+1. High Text Machine Language
+2. Hyper Tool Markup Language
+3. Hyper Text Markup Language
+4. Hyperlink Markup Language
+A: 3
+Q: Paragraph tag?
+1. <para>
+2. <paragraph>
+3. <p>
+4. <text>
+A: 3
+Q: Image tag?
+1. <pic>
+2. <img>
+3. <src>
+4. <image>
+A: 2
+Q: Hyperlink is created using?
+1. <hlink>
+2. <link>
+3. <a>
+4. <url>
+A: 3
+Q: HTML is...
+1. Case sensitive
+2. Not case sensitive
+3. Compiler-based
+4. Browser-only
+A: 2
+
+[Topic: SQL][Mode: Beginner][Format: Direct]
+Q: What does SQL stand for?
+A: Structured Query Language
+Q: Which command retrieves data?
+A: SELECT
+Q: What is a primary key?
+A: Unique identifier
+Q: Which SQL clause filters records?
+A: WHERE
+Q: Which command inserts data?
+A: INSERT
+
+[Topic: SQL][Mode: Beginner][Format: MCQ]
+Q: SQL stands for?
+1. Simple Query Language
+2. Structured Question Language
+3. Structured Query Language
+4. Sequential Query Logic
+A: 3
+Q: To fetch data, we use?
+1. INSERT
+2. FETCH
+3. GET
+4. SELECT
+A: 4
+Q: Clause for filtering?
+1. FILTER
+2. SEARCH
+3. WHERE
+4. FIND
+A: 3
+Q: INSERT command is used for?
+1. Deleting records
+2. Viewing data
+3. Adding data
+4. Modifying structure
+A: 3
+Q: A primary key is...
+1. Optional column
+2. Duplicate entry
+3. Unique identifier
+4. Table name
+A: 3
+
+[Topic: Java][Mode: Advanced][Format: Direct]
+Q: What is method overriding?
+A: Redefining method in subclass
+Q: What is abstraction in Java?
+A: Hiding implementation details
+Q: Difference between interface and abstract class?
+A: Interface has only method signatures
+Q: What is a constructor?
+A: Special method to initialize object
+Q: What is a static block?
+A: Runs before main method
+
+[Topic: Java][Mode: Advanced][Format: MCQ]
+Q: Method overriding means?
+1. Overloading methods
+2. Redefining method in subclass
+3. Writing constructors
+4. Hiding variables
+A: 2
+Q: Abstraction in Java is?
+1. Showing all details
+2. Hiding implementation details
+3. Writing comments
+4. Creating objects
+A: 2
+Q: Interface vs abstract class?
+1. Both same
+2. Interface can have code, abstract can't
+3. Interface has only method signatures
+4. Abstract class can't have methods
+A: 3
+Q: Static block executes when?
+1. After main
+2. Before main
+3. During exception
+4. Never
+A: 2
+Q: Constructor is used for?
+1. Initializing object
+2. Destroying object
+3. Running loops
+4. Defining class
+A: 1
+
+[Topic: Python][Mode: Advanced][Format: Direct]
+Q: What is a lambda function?
+A: Anonymous function
+Q: What is a decorator?
+A: Modifies function behavior
+Q: What is a generator?
+A: Function using yield
+Q: What does __init__ do?
+A: Constructor in class
+Q: What is list comprehension?
+A: Compact list creation
+
+[Topic: Python][Mode: Advanced][Format: MCQ]
+Q: Lambda functions are?
+1. Named functions
+2. Anonymous functions
+3. Loops
+4. Classes
+A: 2
+Q: Decorator modifies?
+1. Variable values
+2. Function behavior
+3. Class properties
+4. Syntax
+A: 2
+Q: Generator uses?
+1. return
+2. yield
+3. break
+4. continue
+A: 2
+Q: __init__ is?
+1. Function
+2. Decorator
+3. Constructor
+4. Variable
+A: 3
+Q: List comprehension?
+1. For loop alternative
+2. Dictionary
+3. Function call
+4. Error
+A: 1
+
+[Topic: C++][Mode: Advanced][Format: Direct]
+Q: What is polymorphism?
+A: Ability to take many forms
+Q: What are virtual functions?
+A: Functions that can be overridden
+Q: What is a template in C++?
+A: Blueprint for generic programming
+Q: Difference between class and struct?
+A: Default access private vs public
+Q: What is exception handling?
+A: Handling runtime errors
+
+[Topic: C++][Mode: Advanced][Format: MCQ]
+Q: Polymorphism means?
+1. One form only
+2. Many forms
+3. One function
+4. Variable
+A: 2
+Q: Virtual functions?
+1. Never overridden
+2. Can be overridden
+3. Static only
+4. Constructors
+A: 2
+Q: Template is used for?
+1. Inheritance
+2. Generic programming
+3. Variable declaration
+4. File handling
+A: 2
+Q: Default access in class?
+1. Public
+2. Private
+3. Protected
+4. None
+A: 2
+Q: Exception handling manages?
+1. Syntax errors
+2. Runtime errors
+3. Compilation errors
+4. Logic errors
+A: 2
+
+[Topic: HTML][Mode: Advanced][Format: Direct]
+Q: What is semantic HTML?
+A: Using tags that describe meaning
+Q: What is the difference between <div> and <section>?
+A: <section> defines sections with meaning
+Q: What is the role of ARIA in HTML?
+A: Accessibility improvements
+Q: How to embed audio in HTML5?
+A: Using <audio> tag
+Q: What is the use of <canvas> tag?
+A: Drawing graphics dynamically
+
+[Topic: HTML][Mode: Advanced][Format: MCQ]
+Q: Semantic HTML means?
+1. Tags with style only
+2. Tags that describe content meaning
+3. Empty tags
+4. Deprecated tags
+A: 2
+Q: Difference between <div> and <section>?
+1. No difference
+2. <section> has semantic meaning
+3. <div> is semantic
+4. Both deprecated
+A: 2
+Q: ARIA improves?
+1. Performance
+2. SEO
+3. Accessibility
+4. Styling
+A: 3
+Q: Audio tag in HTML5?
+1. <sound>
+2. <audio>
+3. <media>
+4. <music>
+A: 2
+Q: <canvas> is used for?
+1. Text formatting
+2. Static images
+3. Dynamic graphics drawing
+4. Linking pages
+A: 3
+
+[Topic: SQL][Mode: Advanced][Format: Direct]
+Q: What is a JOIN in SQL?
+A: Combining rows from two or more tables
+Q: Difference between INNER JOIN and OUTER JOIN?
+A: INNER returns matching rows, OUTER returns all
+Q: What is a stored procedure?
+A: Precompiled SQL code block
+Q: What is normalization?
+A: Organizing data to reduce redundancy
+Q: What is a trigger?
+A: Automatic execution on table events
+
+[Topic: SQL][Mode: Advanced][Format: MCQ]
+Q: JOIN is used to?
+1. Create table
+2. Combine rows from tables
+3. Delete rows
+4. Update rows
+A: 2
+Q: INNER JOIN returns?
+1. All rows
+2. Matching rows only
+3. No rows
+4. Only first row
+A: 2
+Q: Stored procedure is?
+1. Query tool
+2. Precompiled SQL block
+3. Backup method
+4. Constraint
+A: 2
+Q: Normalization is for?
+1. Increase redundancy
+2. Reduce redundancy
+3. Backup
+4. Security
+A: 2
+Q: Trigger executes on?
+1. User command
+2. Table events
+3. System reboot
+4. Network activity
+A: 2
