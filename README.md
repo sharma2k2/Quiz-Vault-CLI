@@ -9,7 +9,7 @@ This CLI-based Quiz Application helps users practice programming concepts across
 - **Quiz Formats:** 
   - Direct answer (type the answer)
   - Multiple Choice Questions (MCQ) with 4 options
-- **Timer:** 15 seconds per question to answer
+- **Timer:** 45 seconds per question to answer
 - **Immediate feedback:** Error handling for missing questions or files
 
 ## How to Use
